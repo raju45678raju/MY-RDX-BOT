@@ -19,10 +19,10 @@
     "BOTNAME": "RDX BOT ",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61576154552616"
+        ""
     ],
     "NDH": [
-        "100004016155600"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
